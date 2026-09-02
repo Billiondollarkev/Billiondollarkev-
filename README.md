@@ -13,8 +13,8 @@ I'm an IT Support & Cloud Operations Specialist transitioning into B2B Tech Sale
 ---
 
 ### 🚀 Key Projects
-* **[python-data-analytics-toolkit](https://github.com/YOUR_USERNAME/python-data-analytics-toolkit)**: Financial market analytics and risk calculation scripts (`market_analyzer.py`, `portfolio_analyzer.py`).
-* **[python-it-support-tools](https://github.com/YOUR_USERNAME/python-it-support-tools)**: Python-based system maintenance and ticket automation workflows.
+* **[python-data-analytics-toolkit](https://github.com/Billiondollarkev/python-data-analytics-toolkit)**: Financial market analytics and risk calculation scripts (`market_analyzer.py`, `portfolio_analyzer.py`).
+* **[python-it-support-tools](https://github.com/Billiondollarkev/python-it-support-tools)**: Python-based system maintenance and ticket automation workflows.
 
 ---
 
