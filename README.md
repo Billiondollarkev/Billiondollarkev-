@@ -1,5 +1,5 @@
-# Billiondollarkev-
-# Hi there, I'm Kevin Kanyama 👋
+# Hi there
+# I'm Kevin Kanyama 👋
 
 I'm an IT Support & Cloud Operations Specialist transitioning into B2B Tech Sales (SDR / CRM Operations) while actively building data analytics and automation tools in Python.
 
