@@ -20,5 +20,5 @@ I'm an IT Support & Cloud Operations Specialist transitioning into B2B Tech Sale
 
 ### 📬 How to Reach Me
 * **Email:** [kevinkanyama65@gmail.com](mailto:kevinkanyama65@gmail.com)
-* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kevin-kanyama-it/)
+* **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/kevin-kanyama-it)
 * **Location:** Gauteng, South Africa (Available for Remote & Local Opportunities)
